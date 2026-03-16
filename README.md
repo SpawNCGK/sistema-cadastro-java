@@ -3,7 +3,7 @@
 Este projeto é uma aplicação de console desenvolvida para consolidar conceitos fundamentais de **Programação Orientada a Objetos (POO)** e manipulação de coleções em Java.
 
 ## 🚀 Tecnologias Utilizadas
-*   **Linguagem:** Java (JDK 21)
+*   **Linguagem:** Java (JDK 17+)
 *   **Paradigma:** Orientação a Objetos
 *   **Estrutura de Dados:** Listas Dinâmicas (`ArrayList`)
 
